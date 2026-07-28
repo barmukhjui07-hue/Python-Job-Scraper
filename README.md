@@ -16,3 +16,6 @@ Extracts top live job listings directly into the terminal output.
 1. Open **Python IDLE 3.11**.
 2. Open `job_scraper.py` in the IDLE editor.
 3. Press **F5** (or click **Run -> Run Module**).
+
+~~📝 License:
+Open source - for learning and practice.  
